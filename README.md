@@ -154,7 +154,7 @@ Self-taught builder — background in 3D printing, CAD modeling, and programming
 
 **Goal:** Enter a cosplay competition with a humanoid robot performing a choreographed routine from an Elden Ring enemy moveset.
 
-**Timeline:** Ongoing. Started [your start date here].
+**Timeline:** Ongoing. Started [4/14/2026].
 
 Follow the build: [YouTube / blog / social link here]
 
