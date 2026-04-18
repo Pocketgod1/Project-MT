@@ -2,8 +2,8 @@
 
 ## 🎯 Quick Start: Print This for Shopping!
 
-**Total Cost**: €350-400 (all parts, standard servos)  
-**Total Cost (Premium Servos)**: €400-500 (if using JX PDI-6221MG as substitute)  
+**Total Cost**: $385-440 (all parts, standard servos)  
+**Total Cost (Premium Servos)**: $440-550 (if using JX PDI-6221MG as substitute)  
 **Servo Count**: 12 servos (10x finger + 2x wrist)  
 **Print Time**: 40-60 hours  
 **Estimated Assembly**: 8-12 hours  
@@ -29,40 +29,40 @@
 
 | Component | Qty | Model | Unit Price | Est. Total | Supplier | Link |
 |-----------|-----|-------|-----------|-----------|----------|------|
-| **Finger Servos** | 10 | HK15298B (20kg torque) ⚠️ HARD TO FIND | €18 | €180 | Hobbyking/AliExpress | https://hobbyking.com/ (search: HK15298B) |
-| **Wrist Servos** | 2 | MG996R (10kg torque) | €11 | €22 | eBay | https://www.ebay.com/ (search: MG996R servo) |
-| **SERVO SUBTOTAL** | | | | **€202** | | |
+| **Finger Servos** | 10 | HK15298B (20kg torque) ⚠️ HARD TO FIND | $20 | $198 | Hobbyking/AliExpress | https://hobbyking.com/ (search: HK15298B) |
+| **Wrist Servos** | 2 | MG996R (10kg torque) | $12 | $24 | eBay | https://www.ebay.com/ (search: MG996R servo) |
+| **SERVO SUBTOTAL** | | | | **$222** | | |
 
 ### ✅ MECHANICAL COMPONENTS
 
 | Component | Qty | Size/Spec | Unit Price | Est. Total | Supplier | Link |
 |-----------|-----|-----------|-----------|-----------|----------|------|
-| **Fishing Line** | 1 spool | 0.8mm diameter, 200LB | €10 | €10 | Amazon / eBay | https://www.amazon.com/ (search: 0.8mm braided fishing line) |
-| **Extension Springs** | 10 | 0.51mm dia, 1cm length | €0.50 | €5 | AliExpress | https://www.aliexpress.com/ (search: extension spring 0.51mm) |
-| **Allen M3x20 Bolts** | 50 | Countersunk | €0.10 | €5 | Hardware Store (local) | Any local hardware/DIY store |
-| **Phillips M3x12 Screws** | 100 | Wood screws | €0.05 | €5 | Hardware Store (local) | Any local hardware/DIY store |
-| **Misc Bolts/Nuts** | Assorted | M3, M4 hardware | €10 | €10 | Hardware Store (local) | Any local hardware/DIY store |
-| **MECHANICAL SUBTOTAL** | | | | **€35** | | |
+| **Fishing Line** | 1 spool | 0.8mm diameter, 200LB | $11 | $11 | Amazon / eBay | https://www.amazon.com/ (search: 0.8mm braided fishing line) |
+| **Extension Springs** | 10 | 0.51mm dia, 1cm length | $0.55 | $5.50 | AliExpress | https://www.aliexpress.com/ (search: extension spring 0.51mm) |
+| **Allen M3x20 Bolts** | 50 | Countersunk | $0.11 | $5.50 | Hardware Store (local) | Any local hardware/DIY store |
+| **Phillips M3x12 Screws** | 100 | Wood screws | $0.06 | $5.50 | Hardware Store (local) | Any local hardware/DIY store |
+| **Misc Bolts/Nuts** | Assorted | M3, M4 hardware | $11 | $11 | Hardware Store (local) | Any local hardware/DIY store |
+| **MECHANICAL SUBTOTAL** | | | | **$39** | | |
 
 ### ✅ 3D PRINTING MATERIALS (ABS Filament)
 
 | Component | Qty | Color | Unit Price/kg | Est. Total | Supplier | Link |
 |-----------|-----|-------|-----------|-----------|----------|------|
-| **ABS Filament** | 1.5kg | Natural | €47/kg | €70 | Orbi-Tech (EU) | https://www.orbitech.de/ |
-| | or | | | €70 | Prusament | https://shop.prusa3d.com/ |
-| | or | | | €60-70 | AmazonDE/EU | ABS filament search |
-| **PRINTING MATERIAL SUBTOTAL** | | | | **€70** | | |
+| **ABS Filament** | 1.5kg | Natural | $20-31/kg | $66 | OVERTURE (Amazon - Highest Rated) | https://www.amazon.com/s?k=OVERTURE+ABS+Filament+1.75mm |
+| | or | | $22-28/kg | $77 | Orbi-Tech (EU) | https://www.orbitech.de/ |
+| | or | | $28-39/kg | $77 | Prusament | https://shop.prusa3d.com/ |
+| **PRINTING MATERIAL SUBTOTAL** | | | | **$77** | | |
 
 ### ✅ OPTIONAL: TESTING & TUNING
 
 | Component | Qty | Spec | Price | Supplier | Link |
 |-----------|-----|------|-------|----------|------|
-| **Multimeter** | 1 | Digital | €12 | Amazon/eBay | For servo diagnostics |
-| **Servo Tester** | 1 | Manual PWM | €15 | AliExpress | https://www.aliexpress.com/ (search: servo tester) |
-| **Jumper Wires** | 1 pack | Male/Female | €8 | Amazon | For testing |
-| **Breadboard** | 1 | Mini | €5 | Amazon | Development board |
-| **USB Power Bank** | 1 | 5V 3A+ | €20 | Any retailer | For testing servos |
-| **OPTIONAL TESTING SUBTOTAL** | | | **€60** | | |
+| **Multimeter** | 1 | Digital | $13 | Amazon/eBay | For servo diagnostics |
+| **Servo Tester** | 1 | Manual PWM | $16.50 | AliExpress | https://www.aliexpress.com/ (search: servo tester) |
+| **Jumper Wires** | 1 pack | Male/Female | $9 | Amazon | For testing |
+| **Breadboard** | 1 | Mini | $5.50 | Amazon | Development board |
+| **USB Power Bank** | 1 | 5V 3A+ | $22 | Any retailer | For testing servos |
+| **OPTIONAL TESTING SUBTOTAL** | | | **$66** | | |
 
 ---
 
@@ -85,7 +85,7 @@
 1️⃣ **PRIMARY: AliExpress** (Most likely current source)
    - Website: https://www.aliexpress.com/
    - Search: "HK15298B servo"
-   - Expected Price: €12-18 each
+   - Expected Price: $13-20 each
    - Shipping: 2-4 weeks
    - **Note**: Check multiple sellers, some may have stock
    - **Link**: https://www.aliexpress.com/wholesale?SearchText=HK15298B
@@ -93,7 +93,7 @@
 2️⃣ **BACKUP: eBay** (International sellers)
    - Website: https://www.ebay.com/
    - Search: "HK15298B servo 20kg"
-   - Expected Price: €18-25 each
+   - Expected Price: $20-28 each
    - Shipping: 3-7 days (seller dependent)
    - Sellers: Look for +99% rating
 
@@ -101,7 +101,7 @@
    - Website: https://www.aliexpress.com/
    - Search: "JX PDI-6221MG servo"
    - Torque: 20-36kg (same class as HK15298B)
-   - Price: €25-30 each (~€250-300 for 10)
+   - Price: $28-33 each (~$275-330 for 10)
    - **Advantage**: More modern, higher quality, more reliable
    - **Disadvantage**: Slightly more expensive
    - **Note**: Housing may need minor adjustment (servo slightly larger)
@@ -114,7 +114,7 @@
 3. ❌ DO NOT use HK4140MG or other large-scale servos (too big, wrong purpose)
 
 **Shopping Notes:**
-- Qty 10 = ~€180 (HK15298B) or ~€250-300 (JX substitute)
+- Qty 10 = ~$198 (HK15298B) or ~$275-330 (JX substitute)
 - **IMPORTANT**: Check packaging states "HK15298B" not "HK15298" (if you find original)
 - Verify torque spec: should say "20kg.cm" or higher at 6V
 - If substituting JX PDI-6221MG: verify mounting hole pattern matches CAD
@@ -133,17 +133,17 @@
 
 1️⃣ **PRIMARY: eBay**
    - Search: "MG996R servo motor"
-   - Expected Price: €10-15 each
+   - Expected Price: $11-16 each
    - Link: https://www.ebay.com/sch/i.html?_nkw=MG996R+servo
 
 2️⃣ **ALTERNATIVE: Amazon**
    - Search: "MG996R servo"
-   - Price: €12-18 each
+   - Price: $13-20 each
    - Link: https://www.amazon.com/s?k=MG996R+servo
 
 3️⃣ **BUDGET: AliExpress**
    - Search: "MG996R servo motor"
-   - Price: €8-12 each
+   - Price: $9-13 each
    - Link: https://www.aliexpress.com/wholesale?SearchText=MG996R
 
 **Quantity Needed: 2 servos**
@@ -171,18 +171,18 @@
 
 1️⃣ **PRIMARY: Amazon**
    - Search: "0.8mm braided fishing line 200lb"
-   - Price: €8-12 per spool (50+ meters)
+   - Price: $9-13 per spool (50+ meters)
    - Link: https://www.amazon.com/s?k=0.8mm+braided+fishing+line+200lb
    - Recommendation: Buy 1-2 spools (can use extras for arm tendons)
 
 2️⃣ **ALTERNATIVE: eBay**
    - Search: "0.8mm braided fishing line"
-   - Price: €8-15
+   - Price: $9-17
    - Link: https://www.ebay.com/sch/i.html?_nkw=0.8mm+braided+fishing+line
 
 3️⃣ **SPORTING GOODS STORE (Local)**
    - Check local fishing shops
-   - Price: €5-10
+   - Price: $5.50-11
    - Advantage: Immediate pickup, no shipping
 
 **Quantity Needed: 1 spool**
@@ -207,13 +207,13 @@
 
 1️⃣ **PRIMARY: AliExpress** (Best for exact springs)
    - Search: "extension spring 0.51mm 1cm"
-   - Price: €3-8 for pack of 10-20
+   - Price: $3.60-9.70 for pack of 10-20
    - Link: https://www.aliexpress.com/wholesale?SearchText=extension+spring+0.51mm
    - Shipping: 2-4 weeks
 
 2️⃣ **QUICK OPTION: Amazon** (Faster)
    - Search: "extension springs 0.51mm"
-   - Price: €8-15 for assorted pack
+   - Price: $9-16.50 for assorted pack
    - Link: https://www.amazon.com/s?k=extension+springs+0.51mm
 
 3️⃣ **HARDWARE STORE** (If exact match unavailable)
@@ -243,16 +243,16 @@
 
 1️⃣ **CHEAPEST: Local Hardware Store**
    - Any DIY store (Home Depot, Leroy Merlin, B&Q)
-   - ~€5-8 for 50+ piece pack
+   - ~$5.50-9 for 50+ piece pack
    - Pick up same day
 
 2️⃣ **ONLINE: Amazon / eBay**
    - Search: "M3x20 countersunk bolt"
-   - €8-12 for 50-piece pack
+   - $9-13 for 50-piece pack
    - Link: https://www.amazon.com/s?k=M3x20+countersunk+bolt
 
 3️⃣ **BULK: AliExpress**
-   - €3-6 for large assorted pack
+   - $3.30-6.60 for large assorted pack
    - Shipping: 2-3 weeks
 
 **Quantity Needed: 50 bolts** (overstock acceptable)
@@ -269,13 +269,13 @@
 **Ordering:**
 
 1️⃣ **LOCAL: Hardware Store** ⭐ RECOMMENDED
-   - €5-8 for 100-pack
+   - $5.50-9 for 100-pack
    - Pick up same day
    - No shipping delay
 
 2️⃣ **ONLINE: Amazon**
    - Search: "M3x12 wood screws"
-   - €8-12 for 100-pack
+   - $9-13 for 100-pack
    - Link: https://www.amazon.com/s?k=M3x12+wood+screw
 
 **Quantity Needed: 100 screws** (overstock acceptable)
@@ -286,13 +286,13 @@
 
 **What You Need:**
 - Assorted M3, M4 bolts, nuts, washers
-- Total spend: €10-15
+- Total spend: $11-17
 - Get from local hardware store
 
 **Ordering:**
 - Visit any hardware store
 - Get mixed pack or ask for "M3/M4 assorted fasteners"
-- €10-15 buys plenty
+- $11-17 buys plenty
 
 ---
 
@@ -314,26 +314,28 @@
 
 **Recommended Suppliers:**
 
-1️⃣ **PREMIUM: Prusament** (EU)
-   - Website: https://shop.prusa3d.com/
-   - Price: €25-35/kg (€38-53 for 1.5kg)
-   - Quality: Excellent, consistent
-   - Shipping: 3-5 days (EU)
+1️⃣ **BEST VALUE: OVERTURE ABS Filament** ⭐ RECOMMENDED (Amazon)
+   - Website: https://www.amazon.com/s?k=OVERTURE+ABS+Filament+1.75mm
+   - Price: $20-31/kg (~$66 for 1.5kg)
+   - Quality: Highest rated on Amazon, excellent reviews
+   - Specifications: High strength, low warping, ±0.02mm precision
+   - Shipping: 1-2 days (Prime eligible)
+   - **Why This?**: Amazon's "Overall Pick" for ABS filament, most reliable value option
 
 2️⃣ **GOOD: Orbi-Tech** (Original BOM source)
    - Website: https://www.orbitech.de/
-   - Price: €20-25/kg (€30-40 for 1.5kg)
+   - Price: $22-28/kg ($33-44 for 1.5kg)
    - Quality: Good, tested with InMoov
    - Shipping: 2-4 days (EU)
 
-3️⃣ **BUDGET: AmazonDE / Amazon Prime**
-   - Search: "ABS Filament 1.75mm 1kg"
-   - Price: €18-28/kg
-   - Link: https://www.amazon.de/s?k=ABS+Filament
-   - Shipping: 1-2 days (Prime)
+3️⃣ **PREMIUM: Prusament** (EU)
+   - Website: https://shop.prusa3d.com/
+   - Price: $28-39/kg ($42-58 for 1.5kg)
+   - Quality: Excellent, consistent
+   - Shipping: 3-5 days (EU)
 
 4️⃣ **CHEAPEST: AliExpress**
-   - Price: €12-20/kg
+   - Price: $13-22/kg
    - Shipping: 2-4 weeks
    - ⚠️ Quality variable; check reviews
 
@@ -349,7 +351,7 @@
 
 ### 🎯 TIER 5: OPTIONAL BUT RECOMMENDED
 
-#### Servo Tester (€15-20)
+#### Servo Tester ($16.50-22)
 
 **Why?**
 - Test each servo individually before assembly
@@ -359,12 +361,12 @@
 **Ordering:**
 - AliExpress: "servo tester manual"
 - https://www.aliexpress.com/wholesale?SearchText=servo+tester
-- Price: €12-18
-- Or get simple PWM module (€8)
+- Price: $13-20
+- Or get simple PWM module ($9)
 
 ---
 
-#### Digital Multimeter (€10-15)
+#### Digital Multimeter ($11-17)
 
 **Why?**
 - Check servo power draw
@@ -373,7 +375,7 @@
 
 **Ordering:**
 - Amazon or local electronics store
-- ~€12
+- ~$13
 - Any basic model sufficient
 
 ---
@@ -386,53 +388,53 @@
 FINGER MECHANISM PARTS ORDER
 ============================
 
-☐ 10x HK15298B servos (€180)
+☐ 10x HK15298B servos ($198)
    Supplier: Hobbyking / eBay
    Link: ________________
    Order Date: __________ Tracking: __________
 
-☐ 2x MG996R servos (€22)
+☐ 2x MG996R servos ($24)
    Supplier: eBay / Amazon
    Link: ________________
    Order Date: __________ Tracking: __________
 
-☐ 1x Braided fishing line 0.8mm 200lb (€10)
+☐ 1x Braided fishing line 0.8mm 200lb ($11)
    Supplier: Amazon / Local sporting goods
    Link: ________________
    Order Date: __________ Tracking: __________
 
-☐ 10x Extension springs 0.51mm (€5-8)
+☐ 10x Extension springs 0.51mm ($5.50-9)
    Supplier: AliExpress / Amazon
    Link: ________________
    Order Date: __________ Tracking: __________
 
-☐ 50x M3x20 Allen bolts (€5-8)
+☐ 50x M3x20 Allen bolts ($5.50-9)
    Supplier: Local hardware store
    Link: ________________
    Order Date: __________ Tracking: __________
 
-☐ 100x M3x12 wood screws (€5-8)
+☐ 100x M3x12 wood screws ($5.50-9)
    Supplier: Local hardware store
    Link: ________________
    Order Date: __________ Tracking: __________
 
-☐ Misc M3/M4 hardware (€10-15)
+☐ Misc M3/M4 hardware ($11-17)
    Supplier: Local hardware store
    Link: ________________
    Order Date: __________ Tracking: __________
 
-☐ 1.5kg ABS filament natural (€40-70)
-   Supplier: Amazon / Orbi-Tech / Prusament
+☐ 1.5kg ABS filament natural ($66)
+   Supplier: OVERTURE (Amazon - recommended)
    Link: ________________
    Order Date: __________ Tracking: __________
 
-☐ [OPTIONAL] Servo tester (€15)
+☐ [OPTIONAL] Servo tester ($16.50)
    Supplier: AliExpress
    Link: ________________
    Order Date: __________ Tracking: __________
 
 ========================================
-ESTIMATED TOTAL COST: €350-400
+ESTIMATED TOTAL COST: $385-440
 ESTIMATED DELIVERY: 5-14 days (faster parts arrive first)
 ========================================
 ```
@@ -494,11 +496,11 @@ ESTIMATED DELIVERY: 5-14 days (faster parts arrive first)
 
 | Rank | Model | Torque | Size | Price | Source | Status |
 |------|-------|--------|------|-------|--------|--------|
-| 1️⃣ | **JX PDI-6221MG** | 20-36kg | Medium | €25-30 | AliExpress | ✅ Available |
-| 2️⃣ | Savöx SV-0235MG | 13.5kg | Medium | €20 | Amazon/eBay | ✅ Available |
-| 3️⃣ | MG996R | 10kg | Small | €12 | eBay | ✅ Available |
-| 4️⃣ | FS6535M | 33kg | Large | €30 | AliExpress | ✅ Available |
-| 5️⃣ | HK15338 | 25kg | Medium | €18 | AliExpress | ✅ Available |
+| 1️⃣ | **JX PDI-6221MG** | 20-36kg | Medium | $28-33 | AliExpress | ✅ Available |
+| 2️⃣ | Savöx SV-0235MG | 13.5kg | Medium | $22 | Amazon/eBay | ✅ Available |
+| 3️⃣ | MG996R | 10kg | Small | $13 | eBay | ✅ Available |
+| 4️⃣ | FS6535M | 33kg | Large | $33 | AliExpress | ✅ Available |
+| 5️⃣ | HK15338 | 25kg | Medium | $20 | AliExpress | ✅ Available |
 
 **BEST CHOICE: JX PDI-6221MG** ⭐
 - Torque range: 20-36kg (covers HK15298B performance)
@@ -513,15 +515,15 @@ ESTIMATED DELIVERY: 5-14 days (faster parts arrive first)
 Need finger servos?
     │
     ├─ Can find HK15298B on AliExpress?
-    │   YES → Order it! (€12-18 each, 2-4 weeks)
+    │   YES → Order it! ($13-20 each, 2-4 weeks)
     │   NO → Go to next step
     │
     ├─ Budget is flexible?
-    │   YES → Order JX PDI-6221MG (€25-30 each, better quality)
+    │   YES → Order JX PDI-6221MG ($28-33 each, better quality)
     │   NO → Go to next step
     │
     ├─ Want cheapest option?
-    │   YES → Use 10x MG996R (€12 each, but slower)
+    │   YES → Use 10x MG996R ($13 each, but slower)
     │   NO → Order JX PDI-6221MG anyway
     │
     └─ NO servos work?

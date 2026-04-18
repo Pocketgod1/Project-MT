@@ -13,10 +13,10 @@
 
 | Component | Qty | Model | Specs | Price (2016) | Notes |
 |-----------|-----|-------|-------|-------------|-------|
-| **Arduino Mega** | 2 | Arduino Mega 2560 | Microcontroller | €40 each (~€80) | Recommended: 1x Uno + 1x Mega; upgrade to 2x Mega if needed |
+| **Arduino Mega** | 2 | Arduino Mega 2560 | Microcontroller | $44 each (~$88) | Recommended: 1x Uno + 1x Mega; upgrade to 2x Mega if needed |
 | **Nervo Board** | 2 | Custom InMoov | Servo multiplexer | Included in kit | I2C servo controller |
-| **Arduino Nano** | 1 | Arduino Nano | Microcontroller | €10-15 | Optional: for additional sensors |
-| **USB Hub** | 1 | 8-port USB 3.0 | High-speed connectivity | €15-30 | Powers Arduinos, cameras, peripherals |
+| **Arduino Nano** | 1 | Arduino Nano | Microcontroller | $11-17 | Optional: for additional sensors |
+| **USB Hub** | 1 | 8-port USB 3.0 | High-speed connectivity | $17-33 | Powers Arduinos, cameras, peripherals |
 
 ---
 
@@ -26,37 +26,37 @@
 
 | Component | Qty | Model | Torque | Rotation | Price Each | Subtotal | Notes |
 |-----------|-----|-------|--------|----------|-----------|----------|-------|
-| **Finger Servos** | 10 | HK15298B | 20kg | 90° | €18 | €180 | Best choice for fingers (strong, quiet, reliable) |
-| **Wrist Rotation** | 2 | MG996R | 10kg | 180° | €11 | €22 | Rotational wrist movement |
-| **Braided Fishing Line** | 1 | 0.8mm, 200LB | - | - | €10 | €10 | Tendon-driven finger mechanism |
+| **Finger Servos** | 10 | HK15298B | 20kg | 90° | $20 | $198 | Best choice for fingers (strong, quiet, reliable) |
+| **Wrist Rotation** | 2 | MG996R | 10kg | 180° | $12 | $24 | Rotational wrist movement |
+| **Braided Fishing Line** | 1 | 0.8mm, 200LB | - | - | $11 | $11 | Tendon-driven finger mechanism |
 | **Extension Springs** | 10 | 0.51mm diameter | - | - | Included | - | Finger return springs (1cm length) |
-| **Misc Bolts** | - | M3, M4 hardware | - | - | €10 | €10 | From local hardware store |
-| **ABS Filament** | 1.5kg | Natural ABS | - | - | €70 | €70 | 3D printing material |
-| **Hands/Forearms Subtotal** | | | | | | **€362** | |
+| **Misc Bolts** | - | M3, M4 hardware | - | - | $11 | $11 | From local hardware store |
+| **ABS Filament** | 1.5kg | Natural ABS | - | - | $77 | $77 | 3D printing material |
+| **Hands/Forearms Subtotal** | | | | | | **$438** | |
 
 ### Arms & Shoulders (Left, Right)
 
 | Component | Qty | Model | Torque | Rotation | Price Each | Subtotal | Notes |
 |-----------|-----|-------|--------|----------|-----------|----------|-------|
-| **Bicep/Shoulder Servos** | 8 | Hitec HS805BB | 27.5kg | 180° | €30 | €240 | **Recommended**: Get stronger torque if possible (60kg options available) |
-| **Misc Bolts** | - | M3, M4 hardware | - | - | €10 | €10 | From local hardware store |
-| **ABS Filament** | 1.5kg | Black, Yellow, Natural | - | - | €37 | €37 | 3D printing material |
-| **Arms/Shoulders Subtotal** | | | | | | **€287** | |
+| **Bicep/Shoulder Servos** | 8 | Hitec HS805BB | 27.5kg | 180° | $33 | $264 | **Recommended**: Get stronger torque if possible (60kg options available) |
+| **Misc Bolts** | - | M3, M4 hardware | - | - | $11 | $11 | From local hardware store |
+| **ABS Filament** | 1.5kg | Black, Yellow, Natural | - | - | $41 | $41 | 3D printing material |
+| **Arms/Shoulders Subtotal** | | | | | | **$316** | |
 
 ### Head, Torso & Neck
 
 | Component | Qty | Model | Torque | Rotation | Purpose | Price Each | Subtotal | Notes |
 |-----------|-----|-------|--------|----------|---------|-----------|----------|-------|
-| **Head Up/Down** | 2 | Hitec HS805BB | 27.5kg | 180° | Head movement | €30 | €60 | Vertical head rotation |
-| **Neck Tilting** | 2 | HK15298B | 20kg | 90° | Neck tilt | €18 | €36 | 1 master, 1 slave for synchronization |
-| **Jaw Mechanism** | 1 | HK15298B | 20kg | 90° | Jaw opening | €18 | €18 | Mouth movement |
-| **Eye Mechanism** | 2 | DS929hvCorona (or similar) | 8-10kg | 90° | Eye movement | €15 | €30 | Horizontal/vertical eye gaze |
-| **Stomach (High)** | 2 | Hitec HS805BB | 27.5kg | 180° | Torso flex | €30 | €60 | Upper torso bending |
-| **Stomach (Mid)** | 2 | Hitec HS805BB or HK15338 | 25-27kg | 180° | Torso bend | €25-30 | €50-60 | Middle torso bending |
-| **Misc Bolts** | - | M3, M4 hardware | - | - | - | €10 | €10 | From hardware store |
-| **ABS Filament** | 4kg | Natural ABS | - | - | - | €140 | €140 | 3D printing material (head, torso, neck) |
-| **Fishing Line** | 1 | 0.8mm, 200LB | - | - | - | €5 | €5 | Tendons for facial animation |
-| **Head/Torso Subtotal** | | | | | | | **€309-319** | |
+| **Head Up/Down** | 2 | Hitec HS805BB | 27.5kg | 180° | Head movement | $33 | $66 | Vertical head rotation |
+| **Neck Tilting** | 2 | HK15298B | 20kg | 90° | Neck tilt | $20 | $40 | 1 master, 1 slave for synchronization |
+| **Jaw Mechanism** | 1 | HK15298B | 20kg | 90° | Jaw opening | $20 | $20 | Mouth movement |
+| **Eye Mechanism** | 2 | DS929hvCorona (or similar) | 8-10kg | 90° | Eye movement | $16.50 | $33 | Horizontal/vertical eye gaze |
+| **Stomach (High)** | 2 | Hitec HS805BB | 27.5kg | 180° | Torso flex | $33 | $66 | Upper torso bending |
+| **Stomach (Mid)** | 2 | Hitec HS805BB or HK15338 | 25-27kg | 180° | Torso bend | $28-33 | $55-66 | Middle torso bending |
+| **Misc Bolts** | - | M3, M4 hardware | - | - | - | $11 | $11 | From hardware store |
+| **ABS Filament** | 4kg | Natural ABS | - | - | - | $154 | $154 | 3D printing material (head, torso, neck) |
+| **Fishing Line** | 1 | 0.8mm, 200LB | - | - | - | $5.50 | $5.50 | Tendons for facial animation |
+| **Head/Torso Subtotal** | | | | | | | **$340-351** | |
 
 ### Servo Preference Ranking (Per InMoov Designer)
 
@@ -84,13 +84,13 @@
 
 | Component | Qty | Model/Spec | Capacity | Price (2016) | Notes |
 |-----------|-----|-----------|----------|------------|-------|
-| **Battery Option A** | 1 | 6V 12Ah LiPo | 12Ah | €35 | Primary power + charger (6V 1.5A) |
-| **Battery Option B** | 1 | 6V 60A Power Supply | 60A continuous | €40-60 | For all-day operation (recommended) |
+| **Battery Option A** | 1 | 6V 12Ah LiPo | 12Ah | $39 | Primary power + charger (6V 1.5A) |
+| **Battery Option B** | 1 | 6V 60A Power Supply | 60A continuous | $44-66 | For all-day operation (recommended) |
 | **Battery Charger** | 1 | 6V 1.5A charger | 1.5A | Included | Keeps battery topped up during use |
-| **Adjustable DC-DC Converter** | 1 | 5V→6V adjustable | 50A+ | €20-30 | To boost 5V supplies to 6V for servos |
-| **Power Distribution Board** | 1 | Custom PCB | Multiple outputs | €15-25 | Distributes power to all subsystems |
-| **Emergency Breaker** | 1 | 30A automotive breaker | Safety cutoff | €5-10 | Hard-wired safety mechanism |
-| **Power System Subtotal** | | | | | **€115-160** |
+| **Adjustable DC-DC Converter** | 1 | 5V→ 6V adjustable | 50A+ | $22-33 | To boost 5V supplies to 6V for servos |
+| **Power Distribution Board** | 1 | Custom PCB | Multiple outputs | $17-28 | Distributes power to all subsystems |
+| **Emergency Breaker** | 1 | 30A automotive breaker | Safety cutoff | $5.50-11 | Hard-wired safety mechanism |
+| **Power System Subtotal** | | | | | **$127-177** |
 
 ---
 
@@ -98,13 +98,13 @@
 
 | Component | Qty | Model/Option | Specs | Price (2016) | Notes |
 |-----------|-----|--------------|-------|-------------|-------|
-| **Camera (Choose One)** | 1 | Hercules HD (dismantled) | HD video | €20-30 | Most common choice |
-| | 1 | LifeCam 3000 (Microsoft) | HD video | €30-40 | Alternative option |
-| | 1 | OAK-D-Lite | Fixed focus, depth | €100+ | Advanced (for Phase 5) |
-| **PIR Motion Sensor** | 1 | Retriggered PIR | Motion detection | €5-10 | Room awareness |
-| **HC-SRC04** | 2 | Ultrasonic | Distance sensing | €3-5 each | Obstacle detection |
-| **Pressure Sensors** | 10 | Finger pressure | Analog input | €2-5 each | Finger force feedback |
-| **Sensors Subtotal** | | | | | **€90-150** |
+| **Camera (Choose One)** | 1 | Hercules HD (dismantled) | HD video | $22-33 | Most common choice |
+| | 1 | LifeCam 3000 (Microsoft) | HD video | $33-44 | Alternative option |
+| | 1 | OAK-D-Lite | Fixed focus, depth | $110+ | Advanced (for Phase 5) |
+| **PIR Motion Sensor** | 1 | Retriggered PIR | Motion detection | $5.50-11 | Room awareness |
+| **HC-SRC04** | 2 | Ultrasonic | Distance sensing | $3.30-5.50 each | Obstacle detection |
+| **Pressure Sensors** | 10 | Finger pressure | Analog input | $2.20-5.50 each | Finger force feedback |
+| **Sensors Subtotal** | | | | | **$99-165** |
 
 ---
 
@@ -112,16 +112,16 @@
 
 | Component | Qty | Spec | Length | Price (2016) | Notes |
 |-----------|-----|------|--------|-------------|-------|
-| **Ribbon Cable** | - | Standard | See below | €20-40 | Interconnect distances |
+| **Ribbon Cable** | - | Standard | See below | $22-44 | Interconnect distances |
 | Nervo board → Neck | 1 | Ribbon | 10cm | - | Head connection |
 | Nervo board → Head (Eyes/Jaw) | 1 | Ribbon | 55cm | - | Face control |
 | Nervo board → Arm | 1 | Ribbon | 75cm | - | Arm to main board |
 | Nervo board → Hand | 1 | Ribbon | 90cm | - | Hand control |
 | Nervo board → Finger Sensors | 1 | Ribbon | 120cm | - | Sensor feedback |
 | Nervo board → Stomach | 1 | Ribbon | 30cm | - | Torso control |
-| **USB Cables** | 5+ | USB-A to USB-B, 3.0 | Standard | €5-15 each | Arduino, hub connectivity |
-| **Power Cables** | - | Various gauges | Custom | €10-15 | XT60, XT90, barrel connectors |
-| **Cabling Subtotal** | | | | | **€60-100** |
+| **USB Cables** | 5+ | USB-A to USB-B, 3.0 | Standard | $5.50-17 each | Arduino, hub connectivity |
+| **Power Cables** | - | Various gauges | Custom | $11-17 | XT60, XT90, barrel connectors |
+| **Cabling Subtotal** | | | | | **$66-110** |
 
 ---
 
@@ -129,11 +129,11 @@
 
 | Component | Qty | Model/Spec | Specs | Price (2016) | Notes |
 |-----------|-----|-----------|-------|-------------|-------|
-| **Mini PC Speaker** | 2 | 8Ohm 10W | 10W each | €5-10 each | For audio output |
-| **Mini Amplifier** | 1 | 6V | 6V input | €10-15 | Powers speakers |
-| **USB Sound Card** | 1 | External USB | Audio I/O | €10-20 | If main computer lacks audio |
-| **NeoPixel LED Strips** | 3 | Addressable RGB | Programmable | €5-10 each | Eyes, decorative lighting |
-| **Audio/Multimedia Subtotal** | | | | | **€45-90** |
+| **Mini PC Speaker** | 2 | 8Ohm 10W | 10W each | $5.50-11 each | For audio output |
+| **Mini Amplifier** | 1 | 6V | 6V input | $11-17 | Powers speakers |
+| **USB Sound Card** | 1 | External USB | Audio I/O | $11-22 | If main computer lacks audio |
+| **NeoPixel LED Strips** | 3 | Addressable RGB | Programmable | $5.50-11 each | Eyes, decorative lighting |
+| **Audio/Multimedia Subtotal** | | | | | **$50-99** |
 
 ---
 
@@ -141,13 +141,13 @@
 
 | Component | Qty | Size | Purpose | Price (2016) | Notes |
 |-----------|-----|------|---------|-------------|-------|
-| **Allen Countersunk Bolts** | - | M3x20mm | ~50 units | €5-10 | General fastening |
-| | - | M4x20mm | ~50 units | €5-10 | Larger fastening |
-| | - | M8x100mm | ~15 units | €5-10 | Heavy-duty mounting |
-| **Phillips Flat-Head Wood Screws** | - | M3x12mm | ~100 units | €5-10 | Small servo mounting |
-| | - | M4x20mm | ~50 units | €5-10 | Large servo mounting |
-| **Miscellaneous Hardware** | 1 | Various | General | €10-20 | Bolts, nuts, washers from local store |
-| **Fasteners Subtotal** | | | | | **€35-70** |
+| **Allen Countersunk Bolts** | - | M3x20mm | ~50 units | $5.50-11 | General fastening |
+| | - | M4x20mm | ~50 units | $5.50-11 | Larger fastening |
+| | - | M8x100mm | ~15 units | $5.50-11 | Heavy-duty mounting |
+| **Phillips Flat-Head Wood Screws** | - | M3x12mm | ~100 units | $5.50-11 | Small servo mounting |
+| | - | M4x20mm | ~50 units | $5.50-11 | Large servo mounting |
+| **Miscellaneous Hardware** | 1 | Various | General | $11-22 | Bolts, nuts, washers from local store |
+| **Fasteners Subtotal** | | | | | **$39-77** |
 
 ---
 
@@ -155,11 +155,11 @@
 
 | Component | Qty | Material | Color | Price (2016) | Notes |
 |-----------|-----|----------|-------|-------------|-------|
-| **Hands/Forearms** | 1.5kg | ABS | Natural | €70 | 3D printer filament |
-| **Arms/Shoulders** | 1.5kg | ABS | Black, Yellow, Natural | €56 | 3D printer filament |
-| **Head/Torso/Neck** | 4kg | ABS | Natural | €140 | 3D printer filament |
-| **Total ABS Filament** | **7kg** | ABS | Mixed | **€266** | **Approx. 200-500 hours print time** |
-| **3D Printing Materials Subtotal** | | | | | **€266** |
+| **Hands/Forearms** | 1.5kg | ABS | Natural | $77 | 3D printer filament |
+| **Arms/Shoulders** | 1.5kg | ABS | Black, Yellow, Natural | $62 | 3D printer filament |
+| **Head/Torso/Neck** | 4kg | ABS | Natural | $154 | 3D printer filament |
+| **Total ABS Filament** | **7kg** | ABS | Mixed | **$293** | **Approx. 200-500 hours print time** |
+| **3D Printing Materials Subtotal** | | | | | **$293** |
 
 ---
 
@@ -169,38 +169,38 @@
 
 | Component | Spec | Price (2016) | Notes |
 |-----------|------|-------------|-------|
-| CPU | 8th Gen Intel i7-8550U | €600-800 | Quad Core 4.0GHz |
-| SSD | 256GB (OS + software) | €80-100 | Ubuntu + Windows 10 Pro dual boot |
-| HDD | 500GB (optional) | €30-50 | Backup/additional storage |
-| RAM | 32GB | €80-120 | For vision processing |
+| CPU | 8th Gen Intel i7-8550U | $660-880 | Quad Core 4.0GHz |
+| SSD | 256GB (OS + software) | $88-110 | Ubuntu + Windows 10 Pro dual boot |
+| HDD | 500GB (optional) | $33-55 | Backup/additional storage |
+| RAM | 32GB | $88-132 | For vision processing |
 | Size | 113x108x30mm | - | Compact, fits in robot |
-| **NUC Subtotal** | | **€790-1,070** | Optional upgrade for Phase 5 |
+| **NUC Subtotal** | | **$869-1,177** | Optional upgrade for Phase 5 |
 
 ### Option B: Tablet Controller (Older Setup - Budget Option)
 
 | Component | Model | Price (2016) | Notes |
 |-----------|-------|-------------|-------|
-| Tablet | Lenovo ThinkPad 8" | €200-300 | 8" touchscreen, OTG cable required |
-| Powerbank | 10,000mAh 5V | €20-30 | Powers all USB devices via hub |
-| USB Hub | 8-port USB 3.0 | €15-30 | Powers tablets, Arduinos, cameras |
-| Keyboard | Bluetooth detachable | €30-50 | Optional wireless control |
-| **Tablet Setup Subtotal** | | **€265-410** | Legacy option; may have compatibility issues |
+| Tablet | Lenovo ThinkPad 8" | $220-330 | 8" touchscreen, OTG cable required |
+| Powerbank | 10,000mAh 5V | $22-33 | Powers all USB devices via hub |
+| USB Hub | 8-port USB 3.0 | $17-33 | Powers tablets, Arduinos, cameras |
+| Keyboard | Bluetooth detachable | $33-55 | Optional wireless control |
+| **Tablet Setup Subtotal** | | **$292-451** | Legacy option; may have compatibility issues |
 
 ---
 
 ## Summary by Robot Section
 
-| Section | Primary Components | Approx Cost (€) | Print Time |
-|---------|------------------|-----------------|-----------|
-| **Hands & Forearms** | 10x HK15298B, 2x MG996R, fishing line | €362 | 40-60 hours |
-| **Arms & Shoulders** | 8x Hitec HS805BB | €287 | 40-60 hours |
-| **Head & Torso** | 2x HS805BB, 1x HK15298B, 2x HK15298B (neck), 2x DS929 (eyes) | €309-319 | 80-120 hours |
-| **Control Electronics** | 2x Arduino Mega, Nervo boards | €80-150 | N/A |
-| **Power System** | 6V battery/PSU + distribution | €115-160 | N/A |
-| **Sensors & Vision** | Camera, PIR, pressure sensors | €90-150 | N/A |
-| **Hardware & Cabling** | Bolts, screws, ribbon cables | €95-170 | N/A |
-| **3D Printing Materials** | 7kg ABS filament | €266 | 200-500 hours |
-| **Audio & Multimedia** | Speakers, amplifier, NeoPixels | €45-90 | N/A |
+| Section | Primary Components | Approx Cost ($) | Print Time |
+|---------|------------------|-----------------|----------|
+| **Hands & Forearms** | 10x HK15298B, 2x MG996R, fishing line | $438 | 40-60 hours |
+| **Arms & Shoulders** | 8x Hitec HS805BB | $316 | 40-60 hours |
+| **Head & Torso** | 2x HS805BB, 1x HK15298B, 2x HK15298B (neck), 2x DS929 (eyes) | $340-351 | 80-120 hours |
+| **Control Electronics** | 2x Arduino Mega, Nervo boards | $88-165 | N/A |
+| **Power System** | 6V battery/PSU + distribution | $127-177 | N/A |
+| **Sensors & Vision** | Camera, PIR, pressure sensors | $99-165 | N/A |
+| **Hardware & Cabling** | Bolts, screws, ribbon cables | $105-187 | N/A |
+| **3D Printing Materials** | 7kg ABS filament | $293 | 200-500 hours |
+| **Audio & Multimedia** | Speakers, amplifier, NeoPixels | $50-99 | N/A |
 
 
 
@@ -210,27 +210,27 @@
 
 ### Minimum Build (Base Configuration)
 
-| Category | Estimated Cost (€) |
-|----------|------------------|
-| Servos & Actuators | €958 |
-| Computing & Control | €80-150 |
-| Power System | €115-160 |
-| Sensors & Vision | €90-150 |
-| Communication & Cabling | €60-100 |
-| Audio & Multimedia | €45-90 |
-| Hardware & Fasteners | €35-70 |
-| 3D Printing Materials | €266 |
-| **SUBTOTAL** | **€1,649-1,934** |
+| Category | Estimated Cost ($) |
+|----------|-------------------|
+| Servos & Actuators | $1,054 |
+| Computing & Control | $88-165 |
+| Power System | $127-177 |
+| Sensors & Vision | $99-165 |
+| Communication & Cabling | $66-110 |
+| Audio & Multimedia | $50-99 |
+| Hardware & Fasteners | $39-77 |
+| 3D Printing Materials | $293 |
+| **SUBTOTAL** | **$1,814-2,127** |
 
 ### With Optional Advanced Setup (Phase 4+)
 
 | Category | Cost |
 |----------|------|
-| Base Configuration | €1,649-1,934 |
-| NUC Mini PC (advanced) | €790-1,070 |
-| **TOTAL (with NUC)** | **€2,439-3,004** |
+| Base Configuration | $1,814-2,127 |
+| NUC Mini PC (advanced) | $869-1,177 |
+| **TOTAL (with NUC)** | **$2,683-3,304** |
 
-**Conclusion**: €1,650 - €3,000 for a fully functional InMoov humanoid robot
+**Conclusion**: $1,800 - $3,300 for a fully functional InMoov humanoid robot
 
 ---
 
@@ -342,7 +342,7 @@
 
 - **Servo Motors**: Hobbyking, eBay, AliExpress
 - **Electronics**: eBay, Amazon, local electronics stores
-- **3D Printer Filament**: Orbi-Tech (mentioned in BOM), Prusament, Hatchbox
+- **3D Printer Filament**: OVERTURE ABS (Amazon - highest rated), Orbi-Tech, Prusament
 - **Hardware**: Local hardware stores (bolts, screws, springs)
 - **Fishing Line/Tendons**: Sporting goods stores or Amazon
 
